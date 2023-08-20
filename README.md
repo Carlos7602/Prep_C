@@ -1,2 +1,1 @@
-# Prep_C
-Este es un repositorio de prueba de prep course de henry
+Este es un proyecto de prueba de como crear un reositorio del modulo 2 de henry challenge prep course
